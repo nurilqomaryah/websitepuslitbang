@@ -1,118 +1,32 @@
-<div class="row">
+<div class="row text-center">
     <div class="text-center">
-        <h2><b>KEGIATAN LITBANG</b></h2>
+        <h4 style="font-weight: bold;">Kegiatan Terkini</h4>
     </div>
     <div class="content">
         <div class="row">
             <div class="col-md-12">
                 <div class="panel panel-default panel-sharp">
-                    <div class="panel-body panel-custom">
-                        <div class="col-md-3 panel-img">
-                            <img src="https://picsum.photos/id/200/440/320.jpg" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-9">
-                            <h4>
-                                Kegiatan Litbang <small><i class="glyphicon glyphicon-calendar"></i> 01 Desember 2020 |
-                                    <i class="glyphicon glyphicon-user"></i> Admin Puslitbang</small>
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet mi nec
-                                felis maximus vulputate. Fusce id luctus libero, ac fringilla leo. Morbi imperdiet eros
-                            </p>
-                            <p>
-                                <a href="#">Baca Selengkapnya</a>
-                            </p>
-                        </div>
+                    <div class="panel-body" style="background-color: #20B2AA;">
+                        <img src="./image/kegiatan/Pakta Integritas_anigif.gif" class="img-responsive">
+                        <h5 style="color: #ffffff; font-weight: bold; font-family: 'Comic Sans MS';">Penandatanganan Pakta Integritas</h5>
+                        <p style="color: #ffffff;"><small>01 Desember 2020 </br> Di lihat 1281 kali</small></p>
+                        <a href="#"><button type="button" class="btn btn-primary btn-xs">Baca Selengkapnya</button></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-12">
                 <div class="panel panel-default panel-sharp">
-                    <div class="panel-body panel-custom">
-                        <div class="col-md-3 panel-img">
-                            <img src="https://picsum.photos/id/200/440/320.jpg" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-9">
-                            <h4>
-                                Kegiatan Litbang <small><i class="glyphicon glyphicon-calendar"></i> 01 Desember 2020 |
-                                    <i class="glyphicon glyphicon-user"></i> Admin Puslitbang</small>
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet mi nec
-                                felis maximus vulputate. Fusce id luctus libero, ac fringilla leo. Morbi imperdiet eros
-                            </p>
-                            <p>
-                                <a href="#">Baca Selengkapnya</a>
-                            </p>
-                        </div>
+                    <div class="panel-body">
+                        <h5>Knowledge Day</h5>
+                        <img src="./image/kegiatan/Knowledge_Day_anigif(1).gif" class="img-responsive">
+                        <br/>
+                        <p><small>01 Desember 2020 </br> Di lihat 2192 kali</small></p>
+                        <a href="#"><button type="button" class="btn btn-primary btn-xs">Baca Selengkapnya</button></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-12">
-                <div class="panel panel-default panel-sharp">
-                    <div class="panel-body panel-custom">
-                        <div class="col-md-3 panel-img">
-                            <img src="https://picsum.photos/id/200/440/320.jpg" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-9">
-                            <h4>
-                                Kegiatan Litbang <small><i class="glyphicon glyphicon-calendar"></i> 01 Desember 2020 |
-                                    <i class="glyphicon glyphicon-user"></i> Admin Puslitbang</small>
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet mi nec
-                                felis maximus vulputate. Fusce id luctus libero, ac fringilla leo. Morbi imperdiet eros
-                            </p>
-                            <p>
-                                <a href="#">Baca Selengkapnya</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div class="panel panel-default panel-sharp">
-                    <div class="panel-body panel-custom">
-                        <div class="col-md-3 panel-img">
-                            <img src="https://picsum.photos/id/200/440/320.jpg" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-9">
-                            <h4>
-                                Kegiatan Litbang <small><i class="glyphicon glyphicon-calendar"></i> 01 Desember 2020 |
-                                    <i class="glyphicon glyphicon-user"></i> Admin Puslitbang</small>
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet mi nec
-                                felis maximus vulputate. Fusce id luctus libero, ac fringilla leo. Morbi imperdiet eros
-                            </p>
-                            <p>
-                                <a href="#">Baca Selengkapnya</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div class="panel panel-default panel-sharp">
-                    <div class="panel-body panel-custom">
-                        <div class="col-md-3 panel-img">
-                            <img src="https://picsum.photos/id/200/440/320.jpg" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-9">
-                            <h4>
-                                Kegiatan Litbang <small><i class="glyphicon glyphicon-calendar"></i> 01 Desember 2020 |
-                                    <i class="glyphicon glyphicon-user"></i> Admin Puslitbang</small>
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet mi nec
-                                felis maximus vulputate. Fusce id luctus libero, ac fringilla leo. Morbi imperdiet eros
-                            </p>
-                            <p>
-                                <a href="#">Baca Selengkapnya</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
+                <a href="#"><button type="button" class="btn btn-primary">Kegiatan Lainnya</button></a>
             </div>
         </div>
     </div>

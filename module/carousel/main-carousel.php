@@ -13,11 +13,11 @@
         </div>
 
         <div class="item">
-            <img src="./image/carousel/2.jpg" class="tales">
+            <img src="./image/carousel/2.jpeg" class="tales">
         </div>
 
         <div class="item">
-            <img src="./image/carousel/3.jpg" class="tales">
+            <img src="./image/carousel/3.jpeg" class="tales">
         </div>
     </div>
 

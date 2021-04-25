@@ -1,6 +1,6 @@
-<div class="container margin-top-bottom-1em">
+<div class="container">
     <div class="row text-center">
-        <img class="logo-img" src="./image/PUSLITBANGWAS.png" width="30%">
+        <img class="logo-img" src="./image/Logo New 1.png" width="55%" style="float: left;">
     </div>
 </div>
 <nav class="navbar navbar-default boxed-navbar">
@@ -16,11 +16,23 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
+        <ul class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav" style="alignment: center">
                 <li class="active"><a href="#">Beranda</a></li>
-                <li><a href="#">Profile</a></li>
-                <li><a href="#">Produk</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Profil</a>
+                <!--    <ul class="dropdown-content">
+                        <li>
+                            <a href="#">Struktur Organisasi</a>
+                        </li>
+                        <li>
+                            <a href="#">Tugas dan Fungsi Puslitbangwas</a>
+                        </li>
+                    </ul> -->
+                </li>
+                <li><a href="#">Informasi Publik</a></li>
+                <li><a href="#">Arsip</a></li>
+                <li><a href="#">Hubungi Kami</a></li>
                 <li><a href="#">FAQ</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->

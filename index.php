@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Website Puslitbangwas</title>
+        <title>Puslitbangwas BPKP</title>
         <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="css/custom.css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,13 +12,13 @@
         <?php include ("module/navigation/main-menu.php"); ?>
         <?php include ("module/carousel/main-carousel.php"); ?>
         <?php include ("module/redirect/main.php"); ?>
-        <div class="container">
-            <div class="col-md-8">
-                <?php include ("module/litbang/kegiatan.php"); ?>
-            </div>
-            <div class="col-md-1">&nbsp;</div>
-            <div class="col-md-3">
+        <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
+            <div class="col-md-9">
                 <?php include ("module/litbang/hasil.php"); ?>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-2" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
+                <?php include ("module/litbang/kegiatan.php"); ?>
             </div>
         </div>
         <?php include ("module/penghargaan/main.php"); ?>
