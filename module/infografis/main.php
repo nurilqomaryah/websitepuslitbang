@@ -83,11 +83,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-5">
-                <div class="content-video" style="padding-top: 80px; padding-bottom: 20px; float: right;">
-                    <iframe width="400" height="250" src="https://www.youtube.com/embed/ni3QjRcjxwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
+            <iframe width="100%" height="30%" class="col-md-5" style="padding-top: 20px;" src="https://www.youtube.com/embed/ni3QjRcjxwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 </div>
