@@ -20,15 +20,11 @@
             <ul class="nav navbar-nav" style="alignment: center">
                 <li class="active"><a href="#">Beranda</a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Profil</a>
-                <!--    <ul class="dropdown-content">
-                        <li>
-                            <a href="#">Struktur Organisasi</a>
-                        </li>
-                        <li>
-                            <a href="#">Tugas dan Fungsi Puslitbangwas</a>
-                        </li>
-                    </ul> -->
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Struktur Organisasi</a></li>
+                        <li><a href="#">Tugas dan Fungsi Puslitbangwas</a></li>
+                    </ul>
                 </li>
                 <li><a href="#">Informasi Publik</a></li>
                 <li><a href="#">Arsip</a></li>

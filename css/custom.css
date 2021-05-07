@@ -50,7 +50,7 @@ a.white-font:hover{
     display: inline-block;
 }
 
-.dropdown:hover
+
 
 .dropdown-content{
     display: none;
@@ -111,6 +111,21 @@ a.white-font:hover{
 
 .panel-img{
     padding: 0 !important;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    background-color: #263C92;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus{
+    background-color: #263C92;
+    color: #eaec4e;
+}
+
+.dropdown-menu > li > a {
+    color: #ffffff;
 }
 
 /*Overlay Animation*/
