@@ -19,7 +19,7 @@
         <ul class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav" style="alignment: center">
                 <li class="active"><a href="#">Beranda</a></li>
-                <li class="dropdown">
+                <li class="dropdown dropdown-hover">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Struktur Organisasi</a></li>

@@ -336,6 +336,10 @@ a.white-font:hover{
         display: table;
         table-layout: fixed;
     }
+
+    .dropdown-hover:hover .dropdown-menu {
+        display: block;
+    }
 }
 
 /* Smaller than standard 960 (devices and browsers) */
