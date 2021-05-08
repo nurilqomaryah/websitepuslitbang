@@ -128,6 +128,12 @@ a.white-font:hover{
     color: #ffffff;
 }
 
+.img-knowledge{
+    max-width: 100% !important;
+    min-width: 100% !important;
+}
+
+
 /*Overlay Animation*/
 .hover-img {
     background-color: #000;

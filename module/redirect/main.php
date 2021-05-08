@@ -1,5 +1,16 @@
 <div class="container ribbon">
     <div class="row row-space">
+        <div class="col-md-12 text-center">
+            <figure class="hover-img img-knowledge">
+                <img src="./image/redirect/knowledge-management.png" class="img-responsive"/>
+                <figcaption>
+                    <h5>Knowledge <br/>Center</h5>
+                </figcaption>
+            </figure>
+            <span>Knowledge Center</span>
+        </div>
+    </div>
+    <div class="row row-space">
         <div class="col-md-3 text-center">
             <figure class="hover-img">
                 <img src="./image/journal.jpg" alt style="width: 400%; height: 28%;"/>
@@ -38,15 +49,6 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3 text-center">
-            <figure class="hover-img">
-                <img src="./image/kc.png" alt style="width: 90%; height: 28%;"/>
-                <figcaption>
-                    <h5>Knowledge <br/>Center</h5>
-                </figcaption>
-            </figure>
-            <span>Knowledge Center</span>
-        </div>
         <div class="col-md-3 text-center">
             <figure class="hover-img">
                 <img src="./image/librarycafe.jpg" alt style="width: 100%; height: 28%;"/>
