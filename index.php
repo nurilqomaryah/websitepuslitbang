@@ -3,6 +3,8 @@
         <title>Puslitbangwas BPKP</title>
         <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--Google Font-->
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -43,6 +45,7 @@
 </html>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/slick-1.8.1/slick/slick.js"></script>
 <script>
     $(document).ready(function() {
         var dialogShown = localStorage.getItem('dialogShown')
@@ -56,5 +59,7 @@
         else {
             $("#dialog1").hide();
         }
+
+        $('#bootstrap-touch-slider').bsTouchSlider();
     });
 </script>
