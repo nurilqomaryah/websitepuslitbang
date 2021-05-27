@@ -26,15 +26,6 @@
                                     <img src="./image/infografis/INFOGRAFIS_INFORMASI.jpg" class="tales-info">
                                 </div>
                             </div>
-                            <!-- Left and right controls -->
-                            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
                         </div>
                     </div>
                     <div class="card-footer" style="background-color: #ffffff;">
@@ -50,7 +41,7 @@
                         <h4 style="font-weight: bold; color: #0c199c;">Videografis</h4>
                     </div>
                     <div class="card-body">
-                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <div id="myCarousel1" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
                             <ol class="carousel-indicators">
                                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -65,15 +56,6 @@
                                     <video src="./image/videografis/bajuku_etikaku.mp4" class="tales-info"></video>
                                 </div>
                             </div>
-                            <!-- Left and right controls -->
-                            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
                         </div>
                     </div>
                     <div class="card-footer" style="background-color: #ffffff;">

@@ -1,4 +1,4 @@
-<div class="container" style="padding-top: 3%; padding-bottom: 3%;">
+<div class="container-fluid" style="padding-top: 3%; padding-bottom: 3%;">
     <div id="home-slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="item">
@@ -41,7 +41,7 @@
                 </div>
             </div>
         </div>
-        <div class="controllers col-sm-6 col-xs-12">
+        <div class="controllers col-md-12 col-xs-12">
             <!-- Controls -->
             <a class="left carousel-control" href="#home-slider" data-slide="prev">
                 <span class="fa fa-chevron-left icon-prev"></span>
@@ -49,12 +49,6 @@
             <a class="right carousel-control" href="#home-slider" data-slide="next">
                 <span class="fa fa-chevron-right icon-next"></span>
             </a>
-            <!-- Indicators -->
-            <!-- <ol class="carousel-indicators">
-              <li data-target="#home-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#home-slider" data-slide-to="1"></li>
-              <li data-target="#home-slider" data-slide-to="2"></li>
-            </ol> -->
         </div>
     </div>
 </div>

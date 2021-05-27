@@ -53,7 +53,7 @@
 
         if (!dialogShown) {
             $(window).load(function(){
-                $( ".modal" ).modal('show');
+                $( "#modal" ).modal('show');
                 localStorage.setItem('dialogShown', 1)
             });
         }

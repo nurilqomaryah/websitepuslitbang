@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, p, span{
     bottom: 0;
     left: 0;
     transform: translateY(-50%);
-    width: 15%;
+    width: 5%;
     font-size: 20px;
     color: #fff;
     text-align: center;
@@ -63,13 +63,13 @@ h1, h2, h3, h4, h5, p, span{
     background-image: none;
 }
 
-.carousel-control.right{
-    right: -35em;
-}
+/*.carousel-control.right{*/
+/*    right: -35em;*/
+/*}*/
 
-.carousel-control.left{
-    left: -5em;
-}
+/*.carousel-control.left{*/
+/*    left: -5em;*/
+/*}*/
 
 #slider img {
     width: 100%
@@ -178,7 +178,7 @@ a.white-font:hover{
 }
 
 .panel-sharp{
-    border-radius: 0px !important;
+    border-radius: 10px !important;
 }
 
 .panel-img{
