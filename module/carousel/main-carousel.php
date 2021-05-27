@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
     <div id="home-slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="item">
@@ -14,7 +14,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="item active">
                 <div class="col-sm-6">
                     <img src="https://puspiptek.brin.go.id/wp-content/uploads/2021/05/HARI-KEBANGKITAN-NASIONAL-2021_VIDEOTRON.png" class="img-responsive">
@@ -28,7 +27,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="item">
                 <div class="col-sm-6">
                     <img src="https://puspiptek.brin.go.id/wp-content/uploads/2021/05/HARI-KEBANGKITAN-NASIONAL-2021_VIDEOTRON.png" class="img-responsive">
@@ -42,7 +40,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="item">
                 <div class="col-sm-6">
                     <img src="https://puspiptek.brin.go.id/wp-content/uploads/2021/05/HARI-KEBANGKITAN-NASIONAL-2021_VIDEOTRON.png" class="img-responsive">
@@ -56,25 +53,9 @@
                     </div>
                 </div>
             </div>
-
-            <div class="item">
-                <div class="col-sm-6">
-                    <img src="https://puspiptek.brin.go.id/wp-content/uploads/2021/05/HARI-KEBANGKITAN-NASIONAL-2021_VIDEOTRON.png" class="img-responsive">
-                </div>
-                <div class="col-sm-6">
-                    <div class="carousel-caption text-justify" style="text-align: justify">
-                        <h3>Selamat Hari Kartini</h3>
-                        <p>&nbsp; “Habis Gelap Terbitlah Terang” #SobatIptek&nbsp;Selamat Hari Kartini untuk seluruh wanita Indonesia! Tetaplah menjadi sosok yang tak pernah padam dan selalu bersinar<img draggable="false" class="emoji" alt="🌸" src="https://s.w.org/images/core/emoji/11/svg/1f338.svg"> #puspiptek&nbsp;#pusatpenelitianilmupengetahuandanteknologi&nbsp;#harikartini2021&nbsp;#ristekbrin &nbsp; (ilustrasi : Humas PUSPIPTEK-MO)                      </p><div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/selamat-hari-kartini/" class="btn btn-primary">Read more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
         </div>
 
-        <div class="controllers col-sm-6 col-xs-12">
+        <div class="controllers col-sm-12 col-xs-12 col-lg-12">
             <!-- Controls -->
             <a class="left carousel-control" href="#home-slider" data-slide="prev">
                 <span class="fa fa-chevron-left icon-prev"></span>
@@ -82,12 +63,6 @@
             <a class="right carousel-control" href="#home-slider" data-slide="next">
                 <span class="fa fa-chevron-right icon-next"></span>
             </a>
-            <!-- Indicators -->
-            <!-- <ol class="carousel-indicators">
-              <li data-target="#home-slider" data-slide-to="0" class="active"></li>
-              <li data-target="#home-slider" data-slide-to="1"></li>
-              <li data-target="#home-slider" data-slide-to="2"></li>
-            </ol> -->
         </div>
     </div>
 </div>
