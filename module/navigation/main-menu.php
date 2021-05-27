@@ -23,11 +23,29 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Struktur Organisasi</a></li>
-                        <li><a href="#">Tugas dan Fungsi Puslitbangwas</a></li>
+                        <li><a href="#">Visi dan Misi</a></li>
+                        <li><a href="#">Tugas Pokok dan Fungsi</a></li>
+                        <li><a href="#">Tujuan dan Sasaran Strategis</a></li>
+                        <li><a href="#">Profil Pimpinan</a></li>
+                        <li><a href="#">Sekapur Sirih</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Informasi Publik</a></li>
-                <li><a href="#">Arsip</a></li>
+                <li class="dropdown dropdown-hover">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Informasi Publik <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Informasi Tersedia Setiap Saat</a></li>
+                        <li><a href="#">Informasi Serta Merta</a></li>
+                        <li><a href="#">Informasi Berkala</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown dropdown-hover">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Direktori<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Kegiatan Puslitbangwas</a></li>
+                        <li><a href="#">Artikel Pengawasan</a></li>
+                        <li><a href="#">Galeri Foto</a></li>
+                    </ul>
+                </li>
                 <li><a href="#">Hubungi Kami</a></li>
                 <li><a href="#">FAQ</a></li>
             </ul>

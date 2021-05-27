@@ -19,5 +19,8 @@
                 <p><img class="logo-img" src="./image/gmail.png" style="width: 20px; height: 20px;"><a class="white-font cus-font">  puslitbangwas@bpkp.go.id</a></p>
             </div>
         </div>
+        <div class="row" style="alignment: center;">
+            © 2021 Puslitbangwas. Developed by CPNS Prakom. All Rights Reserved
+        </div>
     </div>
 </div>
