@@ -1,6 +1,11 @@
 <div class="container">
     <div class="row text-center">
-        <img class="logo-img" src="./image/Logo New 1.png" width="55%" style="float: left;">
+        <div class="col-md-8">
+            <img class="logo-img" src="./image/Logo New 1.png" width="80%" style="float: left;">
+        </div>
+        <div class="col-md-4">
+            <img class="img-responsive" src="./image/tag-text.png" width="55%" style="float: right; padding-top: 5%;">
+        </div>
     </div>
 </div>
 <nav class="navbar navbar-default boxed-navbar">

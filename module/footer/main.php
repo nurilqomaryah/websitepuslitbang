@@ -14,12 +14,12 @@
             </div>
             <div class="col-md-3">
                 <h4 style="text-decoration: underline">Ikuti Kami</h4>
-                <p><img class="logo-img" src="./image/instagram warna.png" style="width: 20px; height: 20px;"><a href="https://www.instagram.com/puslitbangwasbpkp/" class="white-font cus-font">  @puslitbangwasbpkp</a></p>
+                <p><img class="logo-img" src="./image/instagram warna.png" style="width: 20px; height: 20px;"><a href="https://www.instagram.com/puslitbangwasbpkp/" target="_top" class="white-font cus-font">  @puslitbangwasbpkp</a></p>
                 <p><img class="logo-img" src="./image/youtube.png" style="width: 20px; height: 20px;"><a href="https://www.youtube.com/channel/UCPtx4vWuOIudhrTq93rVzfw" class="white-font cus-font">  Puslitbangwas BPKP</a></p>
                 <p><img class="logo-img" src="./image/gmail.png" style="width: 20px; height: 20px;"><a class="white-font cus-font">  puslitbangwas@bpkp.go.id</a></p>
             </div>
         </div>
-        <div class="row" style="alignment: center;">
+        <div class="row text-center">
             © 2021 Puslitbangwas. Developed by CPNS Prakom. All Rights Reserved
         </div>
     </div>

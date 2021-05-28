@@ -1,6 +1,14 @@
-/*Font CSS*/
-h1, h2, h3, h4, h5, p, span{
-    font-family: 'Martel Sans', sans-serif;
+@font-face {
+    font-family: charter;
+    src: url('../fonts/charter/ttf/CharterRegular.ttf');
+}
+
+h1, h2, h3, h4, h5, p, span, a {
+    font-family: charter, 'Martel Sans', sans-serif;
+}
+
+.nav > li{
+    padding-right: 2em;
 }
 
 /* Slider */
@@ -63,13 +71,13 @@ h1, h2, h3, h4, h5, p, span{
     background-image: none;
 }
 
-/*.carousel-control.right{*/
-/*    right: -35em;*/
-/*}*/
+.carousel-control.right{
+    right: -3em;
+}
 
-/*.carousel-control.left{*/
-/*    left: -5em;*/
-/*}*/
+.carousel-control.left{
+    left: -3em;
+}
 
 #slider img {
     width: 100%
@@ -122,8 +130,6 @@ a.white-font:hover{
     display: inline-block;
 }
 
-
-
 .dropdown-content{
     display: none;
     position: absolute;
@@ -140,8 +146,8 @@ a.white-font:hover{
 .dropdown-content {display: block;}
 
 .ribbon{
-    border-top: 5px solid #ffff00;
-    border-bottom: 5px solid #ffff00;
+    border-top: 5px solid #FFA500;
+    border-bottom: 5px solid #FFA500;
     padding-top: 3em;
     padding-bottom: 3em;
 }
@@ -218,6 +224,7 @@ a.white-font:hover{
     position: relative;
     text-align: center;
     width: 100%;
+    border-radius: 1em;
 }
 
 .hover-img * {

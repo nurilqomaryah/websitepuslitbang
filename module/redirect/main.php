@@ -1,77 +1,67 @@
 <div class="container ribbon">
-    <div class="row row-space">
+    <div class="row">
         <div class="col-md-12 text-center">
             <figure class="hover-img img-knowledge">
-                <img src="./image/redirect/knowledge-management.png" class="img-responsive"/>
+                <img src="./image/kc.png" class="img-responsive text-center" style="width: 25%; background-color: white; padding-top: 1em; padding-bottom: 1em;"/>
                 <figcaption>
                     <h5>Knowledge <br/>Center</h5>
                 </figcaption>
             </figure>
-            <span>Knowledge Center</span>
         </div>
     </div>
     <div class="row row-space">
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
-                <img src="./image/journal.jpg" alt style="width: 400%; height: 28%;"/>
-                <figcaption>
-                    <h5>Jurnal <br/>Pengawasan</h5>
+                <img src="./image/journal.jpg" alt style="width: 100%; height: 28%;"/>
+                <figcaption style="font-family: Calibri; font-size: small;">
+                    <h6>Jurnal Pengawasan terbit dua kali setahun (bulan September dan Maret) berisi artikel berupa hasil penelitian dan hasil pemikiran/non penelitian </h6>
                 </figcaption>
             </figure>
-            <span>Jurnal</span>
+            <span>Jurnal Pengawasan</span>
         </div>
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
-                <img src="./image/majalah.jpg" alt style="width: 400%; height: 28%;"/>
+                <img src="./image/majalah.jpg" alt style="width: 200%; height: 28%;"/>
                 <figcaption>
-                    <h5>Majalah <br/>Seputar Litbang</h5>
+                    <h6>Majalah Seputar Litbang merupakan media komunikasi dan aktualisasi insan Puslitbangwas BPKP mengenai berbagai hal.</h6>
                 </figcaption>
             </figure>
-            <span>Majalah</span>
+            <span>Majalah Seputar Litbang</span>
         </div>
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
-                <img src="./image/laporan2.jpg" alt style="width: 400%; height: 28%;"/>
+                <img src="./image/laporan2.jpg" alt style="width: 200%; height: 28%;"/>
                 <figcaption>
-                    <h5>Laporan <br/>Hasil Litbang</h5>
+                    <h6>Hasil Penelitian dan Pengembangan (Litbang) yang telah dihasilkan oleh Puslitbangwas BPKP</h6>
                 </figcaption>
             </figure>
-            <span>Laporan</span>
+            <span>Hasil Litbang</span>
         </div>
-        <div class="col-md-3 text-center">
+    </div>
+    <div class="row">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
                 <img src="./image/seminar.jpg" alt style="width: 400%; height: 28%;"/>
                 <figcaption>
                     <h5>Seminar <br/>Hasil Litbang</h5>
                 </figcaption>
             </figure>
-            <span>Seminar</span>
+            <span>Seminar Hasil Litbang</span>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
                 <img src="./image/librarycafe.jpg" alt style="width: 100%; height: 28%;"/>
                 <figcaption>
-                    <h5>Library <br/>Cafe</h5>
+                    <h5>Kegiatan sharing session</h5>
                 </figcaption>
             </figure>
             <span>Library Cafe</span>
         </div>
-        <div class="col-md-3 text-center">
-            <figure class="hover-img">
-                <img src="./image/forum.jpg" alt style="width: 100%; height: 28%;"/>
-                <figcaption>
-                    <h5>Community <br/>of Practice</h5>
-                </figcaption>
-            </figure>
-            <span>Community of Practice</span>
-        </div>
-        <div class="col-md-3 text-center">
+        <div class="col-md-4 text-center">
             <figure class="hover-img">
                 <img src="./image/pks.jpg" alt style="width: 100%; height: 28%;"/>
                 <figcaption>
-                    <h5>PKS/PPM</h5>
+                    <h5>Hasil Pengetahuan yang dibagikan oleh pegawai Puslitbang</h5>
                 </figcaption>
             </figure>
             <span>PKS/PPM</span>

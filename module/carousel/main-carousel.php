@@ -1,7 +1,7 @@
-<div class="container-fluid" style="padding-top: 3%; padding-bottom: 3%;">
+<div class="container" style="padding-top: 3%; padding-bottom: 3%;">
     <div id="home-slider" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
-            <div class="item">
+            <div class="item active">
                 <div class="col-sm-6">
                     <img src="./image/carousel/1.jpg" class="img-responsive">
                 </div>
@@ -14,9 +14,9 @@
                     </div>
                 </div>
             </div>
-            <div class="item active">
+            <div class="item">
                 <div class="col-sm-6">
-                    <img src="./image/carousel/2.jpeg" class="img-responsive">
+                    <img src="./image/carousel/2.jpg" class="img-responsive">
                 </div>
                 <div class="col-sm-6">
                     <div class="carousel-caption text-justify" style="text-align: justify">
@@ -29,7 +29,7 @@
             </div>
             <div class="item">
                 <div class="col-sm-6">
-                    <img src="./image/carousel/3.jpeg" class="img-responsive">
+                    <img src="./image/carousel/3.jpg" class="img-responsive">
                 </div>
                 <div class="col-sm-6">
                     <div class="carousel-caption text-justify" style="text-align: justify">

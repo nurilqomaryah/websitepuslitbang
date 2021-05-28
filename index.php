@@ -16,7 +16,7 @@
         <?php include ("module/redirect/main.php"); ?>
         <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
             <div class="col-md-9">
-                <?php include ("module/litbang/hasil.php"); ?>
+                <?php include("module/litbang/artikel.php"); ?>
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-2" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
@@ -33,7 +33,7 @@
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-body">
-                    <p>One fine body&hellip;</p>
+                    <p>Hadir Bermanfaat Untuk Para APIP</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
