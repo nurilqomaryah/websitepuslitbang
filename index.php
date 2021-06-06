@@ -6,6 +6,7 @@
         <link rel="stylesheet" type="text/css" href="./css/custom.css"/>
         <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--Google Font-->
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -53,6 +54,7 @@
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/slick-1.8.1/slick/slick.js"></script>
 <script type="text/javascript" src="js/jssor.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     $(document).ready(function() {
         var dialogShown = localStorage.getItem('dialogShown')
@@ -131,4 +133,6 @@
             }
         });
     });
+
+    AOS.init();
 </script>
