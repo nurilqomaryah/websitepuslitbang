@@ -1,11 +1,6 @@
 <html>
     <head>
         <title>Puslitbangwas BPKP</title>
-        <style>
-            html{
-                scroll-behavior: smooth;
-            }
-        </style>
         <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="./css/animate.css"/>
         <link rel="stylesheet" type="text/css" href="./css/custom.css"/>
@@ -15,6 +10,11 @@
         <!--Google Font-->
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&display=swap" rel="stylesheet">
+        <style>
+            html{
+                scroll-behavior: smooth;
+            }
+        </style>
     </head>
     <body>
         <?php include ("module/navigation/main-menu.php"); ?>
@@ -115,5 +115,20 @@
         };
 
         // jssor_1_slider_init();
+    });
+
+    document.addEventListener("DOMContentLoaded", function(){
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 50) {
+                document.getElementById('navbar-top').classList.add('navbar-fixed-top');
+                // add padding top to show content behind navbar
+                navbar_height = document.querySelector('.navbar').offsetHeight;
+                document.body.style.paddingTop = navbar_height + 'px';
+            } else {
+                document.getElementById('navbar-top').classList.remove('navbar-fixed-top');
+                // remove padding top from body
+                document.body.style.paddingTop = '0';
+            }
+        });
     });
 </script>
