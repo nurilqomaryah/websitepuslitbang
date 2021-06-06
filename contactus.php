@@ -58,3 +58,19 @@
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/slick-1.8.1/slick/slick.js"></script>
 <script type="text/javascript" src="js/jssor.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 50) {
+                document.getElementById('navbar-top').classList.add('navbar-fixed-top');
+                // add padding top to show content behind navbar
+                navbar_height = document.querySelector('.navbar').offsetHeight;
+                document.body.style.paddingTop = navbar_height + 'px';
+            } else {
+                document.getElementById('navbar-top').classList.remove('navbar-fixed-top');
+                // remove padding top from body
+                document.body.style.paddingTop = '0';
+            }
+        });
+    });
+</script>
