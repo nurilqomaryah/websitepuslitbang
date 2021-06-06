@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row text-center">
         <div class="col-md-8">
-            <img class="logo-img" src="./image/Logo New 1.png" width="80%" style="float: left;">
+            <a href="http://www.bpkp.go.id/"><img class="logo-img" src="./image/Logo New 1.png" width="80%" style="float: left;"></a>
         </div>
         <div class="col-md-4">
             <img class="img-responsive" src="./image/tag-text.png" width="55%" style="float: right; padding-top: 5%;">
@@ -23,16 +23,18 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <ul class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav" style="alignment: center">
-                <li class="active"><a href="#">Beranda</a></li>
+                <li><a href="./index.php">Beranda</a></li>
                 <li class="dropdown dropdown-hover">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">Struktur Organisasi</a></li>
-                        <li><a href="#">Visi dan Misi</a></li>
+                        <li><a href="./visimisi.php">Visi dan Misi</a></li>
                         <li><a href="#">Tugas Pokok dan Fungsi</a></li>
                         <li><a href="#">Tujuan dan Sasaran Strategis</a></li>
+                        <li><a href="#">Dukungan SDM</a></li>
                         <li><a href="#">Profil Pimpinan</a></li>
                         <li><a href="#">Sekapur Sirih</a></li>
+                        <li><a href="#">Kapuslitbangwas dari Masa ke Masa</a></li>
                     </ul>
                 </li>
                 <li class="dropdown dropdown-hover">
@@ -46,12 +48,13 @@
                 <li class="dropdown dropdown-hover">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Direktori<span class="caret"></span></a>
                     <ul class="dropdown-menu">
+                        <li><a href="#">Pengumuman</a></li>
                         <li><a href="#">Kegiatan Puslitbangwas</a></li>
                         <li><a href="#">Artikel Pengawasan</a></li>
                         <li><a href="#">Galeri Foto</a></li>
                     </ul>
                 </li>
-                <li><a href="#">Hubungi Kami</a></li>
+                <li><a href="./contactus.php">Hubungi Kami</a></li>
                 <li><a href="#">FAQ</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->

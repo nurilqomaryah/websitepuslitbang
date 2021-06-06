@@ -1,7 +1,7 @@
 <div class="infografis">
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-md-3" style="padding-top: 20px;">
+    <div class="container ribbon text-center">
+        <div class="row" style="padding-top: 20px;">
+            <div class="col-md-3">
                 <div class="card card-default">
                     <div class="card-header" style="background-color: #ffffff;">
                         <h4 style="font-weight: bold; color: #0c199c;">Infografis</h4>
@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4" style="padding-top: 20px;">
+            <div class="col-md-4">
                 <div class="card card-default" style="float: right;">
                     <div class="card-header" style="background-color: #ffffff;">
                         <h4 style="font-weight: bold; color: #0c199c;">Videografis</h4>
@@ -65,7 +65,10 @@
                     </div>
                 </div>
             </div>
-            <iframe width="100%" height="30%" class="col-md-5" style="padding-top: 20px;" src="https://www.youtube.com/embed/ni3QjRcjxwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div>
+                <h4 style="font-weight: bold">Video Terbaru</h4>
+                <iframe width="100%" height="30%" class="col-md-5" style="padding-top: 20px;" src="https://www.youtube.com/embed/ni3QjRcjxwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
     </div>
 </div>

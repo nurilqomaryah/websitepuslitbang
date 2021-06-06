@@ -11,6 +11,11 @@ h1, h2, h3, h4, h5, p, span, a {
     padding-right: 2em;
 }
 
+.btn-orange{
+    background-color: #FFA500;
+    color: white;
+}
+
 /* Slider */
 
 .carousel-control {
@@ -111,6 +116,11 @@ a.white-font:hover{
     margin-bottom: 1em;
 }
 
+.header-cus{
+    position: fixed;
+    top: 0;
+}
+
 .boxed-navbar{
     background-color: #263C92;
     border-color: #263C92;
@@ -118,6 +128,12 @@ a.white-font:hover{
     text-color: #ffffff;
 }
 
+.nav-scroll-down{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+}
 .cus-font{
     font-family: Calibri;
 }
@@ -213,6 +229,18 @@ a.white-font:hover{
 
 
 /*Overlay Animation*/
+.shape-img {
+    background-color: #f8f8ff;
+    color: #000000;
+    display: inline-block;
+    margin: 8px;
+    max-width: 1800px;
+    min-width: 240px;
+    overflow: hidden;
+    width: 100%;
+    border-radius: 1em;
+}
+
 .hover-img {
     background-color: #000;
     color: #fff;
@@ -274,7 +302,7 @@ a.white-font:hover{
     font-family: sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    text-transform: uppercase;
+
 }
 
 .hover-img:hover:before,

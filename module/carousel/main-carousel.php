@@ -8,8 +8,9 @@
                 <div class="col-sm-6">
                     <div class="carousel-caption text-justify" style="text-align: justify">
                         <h3>Pelantikan Jabatan Fungsional</h3>
-                        <p>&nbsp; Selamat Hari Kebangkitan Nasional,&nbsp;#SobatIptek! “Bangkit! Kita Bangsa yang Tangguh!” #puspiptek #pusatpenelitianilmupengetahuandanteknologi #harkitnas2021 #brin                      </p><div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/selamat-hari-kebangkitan-nasional-2021/" class="btn btn-primary">Read more</a>
+                        <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
+                        <div class="text-right" style="text-align:right">
+                            <a href="https://puspiptek.brin.go.id/selamat-hari-kebangkitan-nasional-2021/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -21,8 +22,9 @@
                 <div class="col-sm-6">
                     <div class="carousel-caption text-justify" style="text-align: justify">
                         <h3>Diskusi APIP</h3>
-                        <p>&nbsp; Tangerang Selatan (17/05/2021) – Seiring dengan telah berakhirnya Bulan Suci Ramadhan, Pusat Penelitian Ilmu Pengetahuan dan Teknologi (PUSPIPTEK) mengadakan acara Halal Bihalal di bulan Syawal 1442 H, Senin (17/05). Acara ini rutin diadakan setiap tahunnya, namun&nbsp;pada tahun ini acara dilakukan secara&nbsp;live streaming&nbsp;melalui&nbsp;Zoom Meeting&nbsp;seperti tahun sebelumnya dikarenakan pandemi COVID-19&nbsp; yang…                      </p><div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/lebaran-pada-kondisi-pandemi-puspiptek-adakan-halal-bihalal-secara-virtual/" class="btn btn-primary">Read more</a>
+                        <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
+                        <div class="text-right" style="text-align:right">
+                            <a href="https://puspiptek.brin.go.id/lebaran-pada-kondisi-pandemi-puspiptek-adakan-halal-bihalal-secara-virtual/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
                         </div>
                     </div>
                 </div>
@@ -34,8 +36,9 @@
                 <div class="col-sm-6">
                     <div class="carousel-caption text-justify" style="text-align: justify">
                         <h3>Sharing Knowledge</h3>
-                        <p>&nbsp; Segenap Keluarga Besar PUSPIPTEK mengucapkan Selamat Hari Raya Idul Fitri 1 Syawal 1442 H. Taqabbalallahu Minna Waminkum, Shiyamana Wa Shiyamakum. Minal Aidzin Wal Faidzin, Mohon Maaf Lahir dan Batin. Buka puasa minum es kelapa Minumnya paling enak bareng yang dicinta Karena pandemi tak bisa jumpa Semoga silaturahmi tetap terjaga…                      </p><div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/selamat-hari-raya-idul-fitri-1442-h/" class="btn btn-primary">Read more</a>
+                        <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
+                        <div class="text-right" style="text-align:right">
+                            <a href="https://puspiptek.brin.go.id/selamat-hari-raya-idul-fitri-1442-h/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
                         </div>
                     </div>
                 </div>

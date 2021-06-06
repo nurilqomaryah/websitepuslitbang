@@ -1,8 +1,14 @@
 <html>
     <head>
         <title>Puslitbangwas BPKP</title>
+        <style>
+            html{
+                scroll-behavior: smooth;
+            }
+        </style>
         <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/animate.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/custom.css"/>
         <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,16 +21,16 @@
         <?php include ("module/carousel/main-carousel.php"); ?>
         <?php include ("module/redirect/main.php"); ?>
         <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
-            <div class="col-md-9">
+            <div class="col-md-9 animate-box fadeInUp animated-fast">
                 <?php include("module/litbang/artikel.php"); ?>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-2" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
+            <div class="col-md-1 animate-box fadeInUp animated-fast"></div>
+            <div class="col-md-2 animate-box fadeInUp animated-fast" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
                 <?php include ("module/litbang/kegiatan.php"); ?>
             </div>
         </div>
-        <?php include ("module/penghargaan/main.php"); ?>
         <?php include ("module/infografis/main.php"); ?>
+        <?php include ("module/penghargaan/main.php"); ?>
     </body>
     <footer>
         <?php include ("module/footer/main.php"); ?>
