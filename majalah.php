@@ -1,60 +1,53 @@
 <html>
-    <head>
-        <title>Puslitbangwas BPKP</title>
-        <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="./css/animate.css"/>
-        <link rel="stylesheet" type="text/css" href="./css/custom.css"/>
-        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
-        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
-        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!--Google Font-->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&display=swap" rel="stylesheet">
-        <style>
-            html{
-                scroll-behavior: smooth;
-            }
-        </style>
-    </head>
-    <body>
-        <?php include ("module/navigation/main-menu.php"); ?>
-        <?php include ("module/carousel/main-carousel.php"); ?>
-        <?php include ("module/redirect/main.php"); ?>
-        <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
-            <div class="col-md-9 animate-box fadeInUp animated-fast">
-                <?php include("module/litbang/artikel.php"); ?>
-            </div>
-            <div class="col-md-1 animate-box fadeInUp animated-fast"></div>
-            <div class="col-md-2 animate-box fadeInUp animated-fast" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
-                <?php include ("module/litbang/kegiatan.php"); ?>
-            </div>
+<head>
+    <title>Puslitbangwas BPKP</title>
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+<?php include ("module/navigation/main-menu.php"); ?>
+<div class="container" style="padding: 4em;">
+    <h3 class="text-center" style="font-weight: bold">Majalah Seputar Litbang</h3>
+    &nbsp;
+    <div class="row text-center">
+        <div class="col-md-3">
+            <img src="./image/majalah/Cover%20Majalah%20Seputar%20Litbang%202020_resize.png" style="width: 60%;">
+            <h5 style="color: #0c0c0c; font-weight: bold; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;">Majalah TW IV 2020</h5>
+            <a href="http://www.bpkp.go.id/public/upload/unit/puslitbangwas/files/PPM_Jurnal.pdf" target="_blank"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
         </div>
-        <?php include ("module/infografis/main.php"); ?>
-        <?php include ("module/penghargaan/main.php"); ?>
-    </body>
-    <footer>
-        <?php include ("module/footer/main.php"); ?>
-    </footer>
-   <!--  <div class="modal fade" id="modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <p>Hadir Bermanfaat Untuk Para APIP</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div>
-            </div> /.modal-content
-        </div> /.modal-dialog
-    </div> /.modal --> -->
+        <div class="col-md-3">
+            <img src="./image/majalah/Cover%20Tw%203_resize(1).jpg" style="width: 60%;">
+            <h5 style="color: #0c0c0c; font-weight: bold; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;">Majalah TW III 2020</h5>
+            <a href="https://eos.bpkp.go.id/ipms_pro/kms/insight/id" target="_blank"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
+        </div>
+        <div class="col-md-3">
+            <img src="./image/majalah/Majalah%2044.jpg" style="width: 60%;">
+            <h5 style="color: #0c0c0c; font-weight: bold; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;">Majalah TW II 2020</h5>
+            <a href="#"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
+        </div>
+        <div class="col-md-3">
+            <img src="./image/majalah/Cover%20Tw%201%20Fix.jpg" style="width: 60%;">
+            <h5 style="color: #0c0c0c; font-weight: bold; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;">Majalah TW I 2020</h5>
+            <a href="#"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
+        </div>
+    </div>
+    &nbsp;
+</div>
+</body>
+<footer>
+    <?php include ("module/footer/main.php"); ?>
+</footer>
 </html>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/slick-1.8.1/slick/slick.js"></script>
 <script type="text/javascript" src="js/jssor.js"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     $(document).ready(function() {
         var dialogShown = localStorage.getItem('dialogShown')
@@ -133,6 +126,4 @@
             }
         });
     });
-
-    AOS.init();
 </script>

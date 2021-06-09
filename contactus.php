@@ -20,7 +20,7 @@
             <a href="files/Form Permintaan Hasil Litbang.docx">Form Permintaan Hasil Litbang</a>
             <div style="border-bottom: 5px solid #FFA500; padding-top: 2em;"></div>
             &nbsp;
-            <p>Jika Anda memiliki pertanyaan, saran, atau komentar Anda dapat mengisi form di bawah ini.</p>
+            <p style="text-align: justify">Jika Anda memiliki pertanyaan, saran, atau komentar Anda dapat mengisi form di bawah ini.</p>
                 <form action="#" method="post">
                     <div class="form-group">
                         <label>Nama:</label>

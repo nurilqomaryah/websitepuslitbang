@@ -18,6 +18,9 @@
                 <p><img class="logo-img" src="./image/instagram warna.png" style="width: 20px; height: 20px;"><a href="https://www.instagram.com/puslitbangwasbpkp/" target="_blank" class="white-font cus-font">  @puslitbangwasbpkp</a></p>
                 <p><img class="logo-img" src="./image/youtube.png" style="width: 20px; height: 20px;"><a href="https://www.youtube.com/channel/UCPtx4vWuOIudhrTq93rVzfw" target="_blank" class="white-font cus-font">  Puslitbangwas BPKP</a></p>
                 <p><img class="logo-img" src="./image/message.png" style="width: 20px; height: 20px;"><a class="white-font cus-font">  puslitbangwas@bpkp.go.id</a></p>
+                &nbsp;
+                <p>Jumlah Pengunjung </br>
+                <span style="font-weight: bold; color: #FFA500;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2871</span></p>
             </div>
         </div>
         <div class="row text-center">

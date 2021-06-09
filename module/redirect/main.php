@@ -1,5 +1,5 @@
-<div data-aos="fade-up">
-    <div class="container ribbon">
+<div data-aos="fade-up" data-aos-delay="500">
+    <div class="container ribbon" style="back">
         <div class="row">
             <div class="col-md-9" style="border-radius: 10px;">
                 <h3 class="text-center" style="font-weight: bold;">Produk Litbang</h3>
@@ -7,7 +7,7 @@
                 <div class="row">
                     <a href="https://eos.bpkp.go.id/ipms_pro/kms/insight/id" target="_blank">
                         <figure class="shape-img">
-                            <div class="col-md-2 text-center" style="padding-right: 0px; padding-top: 5px;">
+                            <div class="col-md-2 text-center" style="padding-right: 0px; padding-top: 10px;">
                                 <img src="./image/kc2.png" alt style="width: 80%; height: 15%; border-radius: 10px;"/>
                             </div>
                             <div class="col-md-10">
@@ -27,7 +27,7 @@
                     <!--                    </a>-->
                     <!--                </div>-->
                 </div>
-
+                &nbsp;
                 <div class="row row-space">
                     <div class="col-md-4 text-center">
                         <a href="./jurnal.php">
@@ -42,13 +42,15 @@
                     </div>
 
                     <div class="col-md-4 text-center">
-                        <figure class="hover-img">
-                            <img src="./image/majalah.jpg" alt style="width: 100%; height: 20%;"/>
-                            <figcaption style="font-family: Calibri; font-size: small;">
-                                <h6>Majalah Seputar Litbang merupakan media komunikasi dan aktualisasi insan Puslitbangwas BPKP mengenai berbagai hal.</h6>
-                            </figcaption>
-                        </figure>
-                        <span>Majalah Seputar Litbang</span>
+                        <a href="./majalah.php">
+                            <figure class="hover-img">
+                                <img src="./image/majalah.jpg" alt style="width: 100%; height: 20%;"/>
+                                <figcaption style="font-family: Calibri; font-size: small;">
+                                    <h6>Majalah Seputar Litbang merupakan media komunikasi dan aktualisasi insan Puslitbangwas BPKP mengenai berbagai hal.</h6>
+                                </figcaption>
+                            </figure>
+                            <span>Majalah Seputar Litbang</span>
+                        </a>
                     </div>
 
                     <div class="col-md-4 text-center">

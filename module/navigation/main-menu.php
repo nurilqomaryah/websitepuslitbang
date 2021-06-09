@@ -27,10 +27,10 @@
                 <li class="dropdown dropdown-hover">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profil <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Struktur Organisasi</a></li>
+                        <li><a href="./struktur.php">Struktur Organisasi</a></li>
                         <li><a href="./visimisi.php">Visi dan Misi</a></li>
-                        <li><a href="#">Tugas Pokok dan Fungsi</a></li>
-                        <li><a href="#">Tujuan dan Sasaran Strategis</a></li>
+                        <li><a href="./tupoksi.php">Tugas Pokok dan Fungsi</a></li>
+                        <li><a href="./tujuan.php">Tujuan dan Sasaran Strategis</a></li>
                         <li><a href="#">Dukungan SDM</a></li>
                         <li><a href="#">Profil Pimpinan</a></li>
                         <li><a href="#">Sekapur Sirih</a></li>

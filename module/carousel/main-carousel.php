@@ -10,7 +10,9 @@
                         <h3>Pelantikan Jabatan Fungsional</h3>
                         <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
                         <div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/selamat-hari-kebangkitan-nasional-2021/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
+                            <a href="https://puspiptek.brin.go.id/selamat-hari-kebangkitan-nasional-2021/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya
+                                <span class="glyphicon glyphicon-arrow-right"></span>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +26,9 @@
                         <h3>Diskusi APIP</h3>
                         <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
                         <div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/lebaran-pada-kondisi-pandemi-puspiptek-adakan-halal-bihalal-secara-virtual/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
+                            <a href="https://puspiptek.brin.go.id/lebaran-pada-kondisi-pandemi-puspiptek-adakan-halal-bihalal-secara-virtual/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya
+                                <span class="glyphicon glyphicon-arrow-right"></span>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -38,7 +42,9 @@
                         <h3>Sharing Knowledge</h3>
                         <p>&nbsp; Jakarta (15/10) - Mengangkat tema "Meningkatkan Kinerja Auditor Internal melalui Semangat Inovatif dan Budaya Berbagi Pengetahuan", Seminar dan Forum Kelitbangan Tahun 2019 yang dilaksanakan oleh Pusat Penelitian dan Pengembangan Pengawasan (Puslitbangwas) BPKP...</p>
                         <div class="text-right" style="text-align:right">
-                            <a href="https://puspiptek.brin.go.id/selamat-hari-raya-idul-fitri-1442-h/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya</a>
+                            <a href="https://puspiptek.brin.go.id/selamat-hari-raya-idul-fitri-1442-h/" class="btn btn-orange" style="color: #263C92;">Baca Selengkapnya
+                                <span class="glyphicon glyphicon-arrow-right"></span>
+                            </a>
                         </div>
                     </div>
                 </div>

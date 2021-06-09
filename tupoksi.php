@@ -1,60 +1,47 @@
 <html>
-    <head>
-        <title>Puslitbangwas BPKP</title>
-        <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="./css/animate.css"/>
-        <link rel="stylesheet" type="text/css" href="./css/custom.css"/>
-        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
-        <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
-        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!--Google Font-->
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&display=swap" rel="stylesheet">
-        <style>
-            html{
-                scroll-behavior: smooth;
-            }
-        </style>
-    </head>
-    <body>
-        <?php include ("module/navigation/main-menu.php"); ?>
-        <?php include ("module/carousel/main-carousel.php"); ?>
-        <?php include ("module/redirect/main.php"); ?>
-        <div class="container" style="padding-top: 3em; padding-bottom: 3em;">
-            <div class="col-md-9 animate-box fadeInUp animated-fast">
-                <?php include("module/litbang/artikel.php"); ?>
-            </div>
-            <div class="col-md-1 animate-box fadeInUp animated-fast"></div>
-            <div class="col-md-2 animate-box fadeInUp animated-fast" style="padding-top: 10px; padding-left: 30px; padding-bottom: 30px; float: right;">
-                <?php include ("module/litbang/kegiatan.php"); ?>
-            </div>
-        </div>
-        <?php include ("module/infografis/main.php"); ?>
-        <?php include ("module/penghargaan/main.php"); ?>
-    </body>
-    <footer>
-        <?php include ("module/footer/main.php"); ?>
-    </footer>
-   <!--  <div class="modal fade" id="modal" tabindex="-1" role="dialog">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-body">
-                    <p>Hadir Bermanfaat Untuk Para APIP</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div>
-            </div> /.modal-content
-        </div> /.modal-dialog
-    </div> /.modal --> -->
+<head>
+    <title>Puslitbangwas BPKP</title>
+    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="./js/slick-1.8.1/slick/slick-theme.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+<?php include ("module/navigation/main-menu.php"); ?>
+
+<div class="container" style="padding: 2em; text-align: justify;">
+    <h4 class="text-center" style="font-weight: bold">Tugas dan Fungsi Puslitbangwas</h4>
+    &nbsp;
+    <p>Puslitbangwas BPKP merupakan salah satu Unit Kerja BPKP, yang berdasarkan pasal 232 Peraturan BPKP Nomor 5 Tahun 2019 tentang Organisasi dan Tata Kerja Badan Pengawasan Keuangan dan Pembangunan, mempunyai tugas yaitu:</p>
+    <p class="text-center"> Melaksanakan Pembinaan, Penyelenggaraan,  dan Koordinasi Kegiatan Penelitian dan Pengembangan Pengawasan </p>
+    <p></p>
+    &nbsp;
+    <p>Selanjutnya dalam pasal 233 Peraturan tersebut, dinyatakan bahwa dalam melaksanakan tugas sebagaimana pasal 232, Puslitbangwas BPKP menyelenggarakan fungsi :</p>
+    <p>
+        1. Analisis kebutuhan dan penyusunan program penelitian dan pengembangan, serta inovasi dan manajemen pengetahuan di bidang pengawasan; </br>
+        2. Melaksanakan penelitian dan pengembangan di bidang pengawasan, pengendalian intern dan kapabilitas pengawasan intern pemerintah; </br>
+        3. Melaksanakan kerja sama penelitian dan pengembangan pengawasan; </br>
+        4. Evaluasi dan penyusunan laporan pelaksanaan dan hasil penelitian dan pengembangan serta inovasi dan manajemen pengetahuan di bidang pengawasan; </br>
+        5. Pengelolaan pemanfaatan hasil penelitian dan pengembangan serta inovasi dan manajemen pengetahuan di bidang pengawasan; </br>
+        6. Pembinaan kegiatan penelitian dan pengembangan di bidang pengawasan; </br>
+        7. Pembinaan dan pengelolaan sistem manajemen pengetahuan; </br>
+        8. Penyelenggaraan sistem pengendalian intern dan reformasi birokrasi di Puslitbangwas; dan </br>
+        9. Pelayanan administrasi ketatausahaan, kepegawaian, keuangan, dan umum di Puslitbangwas. </br>
+    </p>
+</div>
+</body>
+<footer>
+    <?php include ("module/footer/main.php"); ?>
+</footer>
 </html>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/slick-1.8.1/slick/slick.js"></script>
 <script type="text/javascript" src="js/jssor.js"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     $(document).ready(function() {
         var dialogShown = localStorage.getItem('dialogShown')
@@ -133,6 +120,4 @@
             }
         });
     });
-
-    AOS.init();
 </script>
