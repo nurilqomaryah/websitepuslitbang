@@ -48,7 +48,7 @@
                 </div>
             </div> /.modal-content
         </div> /.modal-dialog
-    </div> /.modal --> -->
+    </div> /.modal -->
 </html>
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
