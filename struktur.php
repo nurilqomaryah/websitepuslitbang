@@ -18,7 +18,9 @@
     &nbsp;
     <p>Sesuai dengan Peraturan BPKP Nomor 5 Tahun 2019 tentang Organisasi dan Tata Kerja Badan Pengawasan Keuangan dan Pembangunan, kelembagaan unit organisasi Puslitbangwas BPKP tercantum pada Bab XII Pasal 232 s.d Pasal 246, dengan struktur organisasi sebagai berikut: </p>
     &nbsp;
-    <img src="./image/pengumuman/logorakornas2021.jpg" alt style="width: 100%;"/>
+    <div class="text-center">
+    <img src="./image/Bagan Struktur Organisasi 20210604(1).jpg" alt style="width: 70%;"/>
+    </div>
 </div>
 </body>
 <footer>

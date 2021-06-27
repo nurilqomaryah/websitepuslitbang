@@ -1,4 +1,4 @@
-<div data-aos="fade-up" data-aos-delay="500">
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
     <div class="row">
         <div class="text-center">
             <h3 style="font-weight: bold;">Artikel Pengawasan</h3>

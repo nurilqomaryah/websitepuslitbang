@@ -1,4 +1,4 @@
-<div data-aos="fade-up" data-aos-delay="500">
+<div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
     <div class="infografis">
         <div class="container ribbon text-center">
             <div class="row" style="padding-top: 20px;">
