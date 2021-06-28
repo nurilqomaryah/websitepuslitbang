@@ -31,18 +31,18 @@
                         <li><a href="./visimisi.php">Visi dan Misi</a></li>
                         <li><a href="./tupoksi.php">Tugas Pokok dan Fungsi</a></li>
                         <li><a href="./tujuan.php">Tujuan dan Sasaran Strategis</a></li>
-                        <li><a href="#">Dukungan SDM</a></li>
-                        <li><a href="#">Profil Pimpinan</a></li>
-                        <li><a href="#">Sekapur Sirih</a></li>
-                        <li><a href="#">Kapuslitbangwas dari Masa ke Masa</a></li>
+                        <li><a href="./dukungan.php">Dukungan SDM</a></li>
+                        <li><a href="./pimpinan.php">Profil Pimpinan</a></li>
+                        <li><a href="./sekapur.php">Sekapur Sirih</a></li>
+                        <li><a href="./kapuslitbangwas.php">Kapuslitbangwas dari Masa ke Masa</a></li>
                     </ul>
                 </li>
                 <li class="dropdown dropdown-hover">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Informasi Publik <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Informasi Tersedia Setiap Saat</a></li>
-                        <li><a href="#">Informasi Serta Merta</a></li>
-                        <li><a href="#">Informasi Berkala</a></li>
+                        <li><a href="./info_setiap_saat.php">Informasi Tersedia Setiap Saat</a></li>
+                        <li><a href="./info_serta_merta.php">Informasi Serta Merta</a></li>
+                        <li><a href="./info_berkala.php">Informasi Berkala</a></li>
                     </ul>
                 </li>
                 <li class="dropdown dropdown-hover">
@@ -55,7 +55,7 @@
                     </ul>
                 </li>
                 <li><a href="./contactus.php">Hubungi Kami</a></li>
-                <li><a href="#">FAQ</a></li>
+                <li><a href="./faq.php">FAQ</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

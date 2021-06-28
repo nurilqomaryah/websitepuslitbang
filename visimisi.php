@@ -17,7 +17,7 @@
     <h4 class="text-center" style="font-weight: bold">Visi dan Misi Puslitbangwas</h4>
     &nbsp;
     <p style="font-weight: bold">Visi</p>
-    <p>Sesuai dengan Pasal 2 Peraturan Kepala BPKP Nomor 5 Tahun 2015 tentang <i>Rencana </i> Strategis BPKP 2015-2019, Renstra BPKP wajib dijadikan acuan bagi seluruh unit organisasi di lingkungan BPKP dalam penyusunan rencana strategis unit kerja. Untuk itu, sejalan dengan visi organisasi BPKP, pernyataan visi Puslitbangwas BPKP adalah sebagai berikut: </p>
+    <p>Sesuai dengan Pasal 2 Peraturan Kepala BPKP Nomor 5 Tahun 2015 tentang Strategis BPKP 2015-2019, Renstra BPKP wajib dijadikan acuan bagi seluruh unit organisasi di lingkungan BPKP dalam penyusunan rencana strategis unit kerja. Untuk itu, sejalan dengan visi organisasi BPKP, pernyataan visi Puslitbangwas BPKP adalah sebagai berikut: </p>
     <p class="text-center"> "Pusat Penelitian dan Pengembangan Pengawasan Yang Terpercaya dalam mendukung BPKP Berkelas Dunia" </p>
     <p>
 

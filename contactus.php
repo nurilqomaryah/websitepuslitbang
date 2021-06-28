@@ -16,12 +16,12 @@
 <div class="container" style="padding-top: 20px; padding-bottom: 60px;">
         <div class="col-md-6">
             <h3>Hubungi Kami</h3>
-            <p style="text-align: justify">Jika Anda ingin meminta hasil Litbang, Anda dapat mengklik tautan berikut:</p>
+            <p style="text-align: justify">Untuk masyarakat (non-pegawai BPKP) yang ingin meminta hasil Litbang, Anda dapat mengajukan permintaan melalui tautan berikut:</p>
             <a href="https://eos.bpkp.go.id/ppid/public/">https://eos.bpkp.go.id/ppid/public/</a>
         <!--    <a href="files/Form Permintaan Hasil Litbang.docx">Form Permintaan Hasil Litbang</a> -->
             <div style="border-bottom: 5px solid #FFA500; padding-top: 2em;"></div>
             &nbsp;
-            <p style="text-align: justify">Jika Anda memiliki pertanyaan, saran, atau komentar Anda dapat mengisi form di bawah ini.</p>
+            <p style="text-align: justify">Jika Anda memiliki pertanyaan, saran, atau komentar terkait Puslitbangwas, Anda dapat mengisi form di bawah ini.</p>
                 <form action="#" method="post">
                     <div class="form-group">
                         <label>Nama:</label>

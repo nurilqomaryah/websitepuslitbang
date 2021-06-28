@@ -38,13 +38,13 @@
                             </div>
                             <div class="col-md-10">
                                 <h5 style="margin-top: 20px; font-weight: bold;">
-                                    Diskursus Konflik Nilai (Clash of Value) dan Dilema Etika dalam Kasus Whistleblowing </br> <small><i class="glyphicon glyphicon-calendar"></i> 25 November 2020</small>
+                                    Diskursus Konflik Nilai <i>(Clash of Value)</i> dan Dilema Etika dalam Kasus <i>Whistleblowing</i> </br> <small><i class="glyphicon glyphicon-calendar"></i> 25 November 2020</small>
                                 </h5>
                                 <p style="font-family: Calibri; text-align: justify"; font-size: 13px;>
-                                    Riset ini mengkaji tentang dinamika atas fenomena whistleblowing behaviour yang terjadi pada lima kasus di Indonesia dengan menitikberatkan pada dinamika relasi kuasa dan interaksi para aktor yang muncul di dalam organisasi ketika ada orang dalam (insider) melakukan tindakan whistleblowing. Riset kualitatif ini menggunakan metode multi case study yang memperlakukan setiap kasus dengan pendekatan unique case orientation (Patton, 2002).
+                                    Riset ini mengkaji tentang dinamika atas fenomena <i>whistleblowing behaviour</i> yang terjadi pada lima kasus di Indonesia dengan menitikberatkan pada dinamika relasi kuasa dan interaksi para aktor yang muncul di dalam organisasi ketika ada orang dalam <i>(insider)</i> melakukan tindakan <i>whistleblowing</i>. Riset kualitatif ini menggunakan metode multi <i>case study</i> yang memperlakukan setiap kasus dengan pendekatan <i>unique case orientation</i> (Patton, 2002).
                                 </p>
                                 <p style="font-family: Calibri; text-align: justify"; font-size: 13px;>
-                                    Kata Kunci: dilema, konflik nilai, whistleblower, whistleblowing</p>
+                                    Kata Kunci: dilema, konflik nilai, <i>whistleblower</i>, <i>whistleblowing</i></p>
                                 <p style="font-family: Calibri; text-align: justify"; font-size: 13px;>
                                     Artikel ini dimuat dalam: </br> Jurnal Pengawasan ISSN 2686-2840 </br> Vol.2, No.2, September 2020 (1-12)</p>
                                 <p>

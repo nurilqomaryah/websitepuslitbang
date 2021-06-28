@@ -1,5 +1,6 @@
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-    <div class="container ribbon" style="back">
+    <div class="bg-artikel">
+    <div class="container ribbon">
         <div class="row">
             <div class="col-md-9" style="border-radius: 10px;">
                 <h3 class="text-center" style="font-weight: bold;">Produk Litbang</h3>
@@ -11,7 +12,7 @@
                                 <img src="./image/kc2.png" alt style="width: 80%; height: 15%; border-radius: 10px;"/>
                             </div>
                             <div class="col-md-10">
-                                <h4 style="font-weight: bold">Knowledge Center</h4>
+                                <h4 style="font-weight: bold"><i>Knowledge Center</i></h4>
                                 <p style="text-align: justify;">Aplikasi ini digunakan untuk mengidentifikasi, mengambil, menyimpan, memelihara dan membagikan pengetahuan, dengan harapan memberikan manfaat bagi orang lain yang membutuhkannya.</p>
                             </div>
                         </figure>
@@ -82,7 +83,7 @@
                                 <h6>Kegiatan sharing session</h6>
                             </figcaption>
                         </figure>
-                        <span>Library Cafe</span>
+                        <span><i>Library Cafe</i></span>
                     </div>
 
                     <div class="col-md-4 text-center">
@@ -125,5 +126,6 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </div>

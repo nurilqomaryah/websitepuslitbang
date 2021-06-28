@@ -30,7 +30,7 @@
                 <div class="col-md-12">
                     <div class="panel panel-default panel-sharp">
                         <div class="panel-body" style="background-color: #263C92; border-radius: 10px;">
-                            <h5 style="color: #ffffff;">Knowledge Day</h5>
+                            <h5 style="color: #ffffff;"><i>Knowledge Day</i></h5>
                             <img src="./image/kegiatan/Knowledge_Day_anigif(1).gif" class="img-responsive">
                             <br/>
                             <p style="color: #ffffff;"><small>01 Desember 2020 </br> Di lihat 2192 kali</small></p>

@@ -19,7 +19,7 @@
         <div class="col-md-3">
             <img src="./image/majalah/Cover%20Majalah%20Seputar%20Litbang%202020_resize.png" style="width: 60%;">
             <h5 style="color: #0c0c0c; font-weight: bold; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;">Majalah TW IV 2020</h5>
-            <a href="http://www.bpkp.go.id/public/upload/unit/puslitbangwas/files/PPM_Jurnal.pdf" target="_blank"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
+            <a href="http://www.bpkp.go.id/public/upload/unit/puslitbangwas/files/Majalah%20Tw%204%202020%20v3_web_compressed.pdf" target="_blank"><button type="button" class="btn btn-primary btn-xs">Unduh Majalah</button></a>
         </div>
         <div class="col-md-3">
             <img src="./image/majalah/Cover%20Tw%203_resize(1).jpg" style="width: 60%;">
