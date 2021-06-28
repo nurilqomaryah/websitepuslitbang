@@ -70,7 +70,7 @@
                         <figure class="hover-img">
                             <img src="./image/seminar.jpg" alt style="width: 100%; height: 20%;"/>
                             <figcaption style="font-family: Calibri; font-size: small;">
-                                <h6>Seminar <br/>Hasil Litbang</h6>
+                                <h6>Hasil dari seminar yang dilakukan</h6>
                             </figcaption>
                         </figure>
                         <span>Seminar Hasil Litbang</span>
