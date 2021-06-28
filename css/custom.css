@@ -84,7 +84,8 @@ tr:nth-child(even) {
 .controllers {
     position: absolute;
     top: 0px;
-    height: 100%
+    height: 100%;
+    z-index: 0;
 }
 
 .carousel-control.left,
@@ -207,6 +208,7 @@ a.white-font:hover{
     width: 100%;
     align-items: center;
     max-height: 70% !important;
+    z-index: 1;
 }
 
 .carousel-inner-info{
