@@ -103,7 +103,9 @@
                 &nbsp;
                 <div class="row">
                     <div class="col-md-12">
+                        <a href="http://www.bpkp.go.id/" target="_blank">
                         <img src="./image/pengumuman/logorakornas2021.jpg" alt style="width: 100%;"/>
+                        </a>
                     </div>
                     <p>
                         &nbsp;

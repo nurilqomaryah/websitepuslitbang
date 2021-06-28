@@ -12,7 +12,7 @@
                             <img src="./image/kegiatan/Paparan_EPK_anigif.gif" class="img-responsive">
                             <br/>
                             <p style="color: #ffffff;"><small>01 Desember 2020 </br> Di lihat 3866 kali</small></p>
-                            <a href="#"><button type="button" class="btn btn-orange btn-xs" style="color: #263C92;">Baca Selengkapnya</button></a>
+                            <a href="http://www.bpkp.go.id/puslitbangwas/berita/read/27814/0/Paparan-Hasil-Kajian-EPK-pada-Direktorat-Investigasi-IV.bpkp" target="_blank"><button type="button" class="btn btn-orange btn-xs" style="color: #263C92;">Baca Selengkapnya</button></a>
                         </div>
                     </div>
                 </div>
